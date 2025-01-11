@@ -1,8 +1,8 @@
-# KOF-A-2012-F-GD-Edition-
+# spare
 Test, Android 14 support + Fullscreen and Hide Navigation Bar
 
 Releases:
-https://github.com/GdGohan/KOF-A-2012-F-GD-Edition-/releases/
+https://github.com/GdGohan/spare/releases/
 
 Extract and edit obb (Windows):
 https://www.winimage.com/download.htm
