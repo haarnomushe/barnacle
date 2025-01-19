@@ -1,4 +1,4 @@
-# spare
+# barnacle
 Test, Android 14 support + Fullscreen and Hide Navigation Bar
 
 Releases:
